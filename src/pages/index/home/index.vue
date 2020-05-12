@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="tishi">
-      <div class="botton">提示</div>
+      <div class="botton">提示222</div>
       <div class="wenzi">使用<span style="color:#F18B36 ">惠民优惠券</span>有机会再次获得福利哦！</div>
       <img src="../../../../static/icont/font_1120850_v6e44xsed6f/jiantou.png">
     </div>
